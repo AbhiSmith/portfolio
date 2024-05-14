@@ -328,6 +328,11 @@ body{
     transition: 1s;
 }
 
+.socia:hover{
+    padding-left: 30px;
+    width: 80px;
+    transition: 1s;
+}
 
 
 
